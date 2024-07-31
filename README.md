@@ -18,9 +18,9 @@ A análise identificou 530 usinas termelétricas no Norte, das quais algumas est
 A substituição de óleo diesel por gás natural em usinas termelétricas na região Norte é uma solução viável para reduzir as emissões de GEE, melhorar a qualidade do ar e contribuir para a segurança energética. O GNL, além de ser uma opção mais limpa e econômica, permite uma implementação rápida devido à infraestrutura já existente. No entanto, futuras análises poderiam considerar o transporte hidroviário e explorar mais profundamente as vantagens do GNL em outros setores, como o industrial e automotivo.
 
 # Referências
-Estimativas anuais de emissões de gases de efeito estufa no Brasil. Ministério da Ciência, Tecnologia, Inovações e Comunicações, 2019.
-Banco de dados de geração elétrica da ANEEL.
-Banco de dados das rodovias no Brasil, Departamento Nacional de Infraestrutura de Transportes (DNIT).
-Empresa de Pesquisa Energética (EPE). Nota Técnica “Terminais de GNL no Brasil”, 2020.
-Agência Nacional de Petróleo, Gás Natural e Biocombustíveis. Rio de Janeiro, 2010.
+Estimativas anuais de emissões de gases de efeito estufa no Brasil. Ministério da Ciência, Tecnologia, Inovações e Comunicações, 2019.<br>
+Banco de dados de geração elétrica da ANEEL.<br>
+Banco de dados das rodovias no Brasil, Departamento Nacional de Infraestrutura de Transportes (DNIT).<br>
+Empresa de Pesquisa Energética (EPE). Nota Técnica “Terminais de GNL no Brasil”, 2020.<br>
+Agência Nacional de Petróleo, Gás Natural e Biocombustíveis. Rio de Janeiro, 2010.<br>
 Painel Intergovernamental sobre Mudança do Clima. Banco de dados de fator de emissão, 2020.
